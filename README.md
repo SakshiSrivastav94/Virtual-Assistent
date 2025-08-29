@@ -54,10 +54,4 @@ Add a dark/light mode toggle.
 
 Include multi-language support.
 
-📸 Preview
-
-(Add a screenshot of your app here)
-
-📜 License
-
-This project is licensed under the MIT License.
+ 
